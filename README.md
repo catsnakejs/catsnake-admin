@@ -1,6 +1,9 @@
 Redux Easy Boilerplate
 =========================
 
+# NOT YET COMPLETE, USE AT OWN RISK
+
+
 ![http://anorudes.github.io/redux-easy-boilerplate/](https://raw.githubusercontent.com/anorudes/redux-easy-boilerplate/569905d1aabc33ce385b1895984141764d364b54/gh/browser.png)
 
 ## Table of Contents
